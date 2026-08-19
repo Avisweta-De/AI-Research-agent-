@@ -1,0 +1,23 @@
+# ============================================
+# Multi-Agent Research & Report Generation System
+# ============================================
+
+# Agent Framework
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# LLM Provider
+langchain-groq>=0.2.0
+
+# Search Tools
+langchain-tavily>=0.1.0
+arxiv>=2.1.0
+
+# PDF Generation
+reportlab>=4.0
+
+# UI
+streamlit>=1.38.0
+
+# Utilities
+python-dotenv>=1.0.0
